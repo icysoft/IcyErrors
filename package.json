@@ -6,6 +6,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Jeremy Montupet",
+  "author": "Icysoft",
   "license": "MPL v2"
 }
